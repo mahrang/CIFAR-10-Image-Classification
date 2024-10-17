@@ -6,6 +6,7 @@ There is no overlap between automobiles and trucks.  Neither class includes pick
 The dataset is divided into 2:  one training dataset containing 50,000 images and one test dataset containing 10,000 images.  
 The training dataset contains 5,000 images of each class and the test dataset contains 1,000 images of each class.  
 The CIFAR-10 dataset is available at http://www.cs.toronto.edu/~kriz/cifar.html
+
 It can also be imported using the Keras library, as is done in the code.
 
 Relevant Paper:
