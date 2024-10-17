@@ -13,7 +13,7 @@ I classified the images in the CIFAR-10 dataset by building a feedforward neural
 The FNN I built has 1 hidden layer containing 175 neurons.  This FNN has a test accuracy of 52.42%.
 To find the optimal number of neurons, I swept the number of neurons in the hidden layer from 100 to 800 in increments of 25 and plotted their training 
 and validation errors.
-175 neurons gave the lowest validation error.
+175 neurons gave the lowest validation error, as shown by the plot below.
 
 ![Unknown](https://github.com/user-attachments/assets/6b0563f9-37ac-4317-bdda-7fad751e0756)
 
