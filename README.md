@@ -9,6 +9,10 @@ The CIFAR-10 dataset is available at http://www.cs.toronto.edu/~kriz/cifar.html
 
 It can also be imported using the Keras library, as is done in the code.
 
+Here are images from each class in the dataset:
+
+![Image of Each Class](https://github.com/user-attachments/assets/556abb86-2a29-415b-beab-2879f56b99c5)
+
 I classified the images in the CIFAR-10 dataset by building a feedforward neural network (FNN) using TensorFlow, Scikit-Learn, and Matplotlib.
 The FNN I built has 1 hidden layer containing 175 neurons.  This FNN has a test accuracy of 52.42%.
 To find the optimal number of neurons, I swept the number of neurons in the hidden layer from 100 to 800 in increments of 25 and plotted their training 
