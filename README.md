@@ -15,6 +15,7 @@ To find the optimal number of neurons, I swept the number of neurons in the hidd
 and validation errors.
 175 neurons gave the lowest validation error.
 
+![Unknown](https://github.com/user-attachments/assets/6b0563f9-37ac-4317-bdda-7fad751e0756)
 
 Relevant Paper:
 Alex Krizhevsky, Learning Multiple Layers of Features From Tiny Images, April 2009. 
