@@ -1,4 +1,4 @@
-CIFAR-10 Image Classification
+# CIFAR-10 Image Classification
 
 The CIFAR-10 dataset contains 60,000 32x32 color images of 10 different classes, with 6,000 images of each class.  
 The classes are:  airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.  The classes are mutually exclusive.  
